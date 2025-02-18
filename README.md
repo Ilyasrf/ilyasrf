@@ -1,4 +1,12 @@
 ## Hi there 👋
+# Welcome to My GitHub 🚀  
+
+[![42 Profile](https://img.shields.io/badge/42-Intra%20Level-5.4-blue)](https://profile.intra.42.fr/)  
+[![C Programming](https://img.shields.io/badge/Language-C-00599C?style=flat&logo=c)](https://github.com/)  
+[![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=flat&logo=linux)](https://github.com/)  
+
+📌 **42 Student | Passionate about Low-level Programming & Linux**  
+🔥 Currently at **Level 5.4** on **42 Intra**  
 
 <!--
 **Ilyasrf/ilyasrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
