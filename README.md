@@ -1,22 +1,76 @@
-# 💫 About Me:
-IT Student | Passionate about coding and problem-solving | Always learning, always improving.
+<p align="center">
+  <img src="https://64.media.tumblr.com/ad6929091711434e730522531943a631/de2f4096ae72bfe8-88/s540x810/73cb98628e40f81e5b9843aa50c05928a63a0f74.gifv" alt="Welcome Coding GIF" width="600">
+</p>
 
+<h1 align="center">Hi, I'm Ilyas 👋</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ilyas_rf1) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rfei.ilyas@gmail.com) 
+<div align="center">  
+  <a href="https://profile.intra.42.fr/users/irfei">
+    <img src="https://badge.mediaplus.ma/kettlebells/irfei" alt="irfei's 42 stats">
+  </a>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ilyasrf&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ilyasrf&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasrf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <em>
+    💻 Passionate about **C & C++ development**, **problem-solving**, and **low-level programming** at **1337 School (42 Network)**.
+  </em>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ilyasrf&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🚀 About Me  
+- 🏫 **1337 School (42 Network) - Tétouan, Morocco**  
+- 🖥️ **C, C++, and Arduino enthusiast**  
+- 🔬 Exploring **low-level programming, system architecture, and robotics**  
+- 🌍 **Always learning & sharing knowledge**  
 
+---
+
+## 💻 Tech Stack  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-%2300979D?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+---
+
+## 📌 Featured Project  
+
+### 🔄 **[Get_Next_Line](https://github.com/ilyasrf/get_next_line)**
+> **A robust file reading function in C** that reads lines efficiently using dynamic memory allocation.
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ilyasrf&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyasrf&theme=radical" alt="GitHub Streak">
+</p>
+
+---
+
+## 📬 Connect with Me  
+
+<p align="center">
+  <a href="https://instagram.com/ilyas_rf1">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/ilyasrf">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:rfei.ilyas@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Coding GIF" width="200">
+</p>
+
+<p align="center">
+  🚀 **Always open to collaborations, learning, and new challenges!**
+</p>
