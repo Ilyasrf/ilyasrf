@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/81ce94179a80be1acbdc771220f16c5a/dc0c0de1ed7fc6f1-fc/s540x810/ae0679f2a495a29b60a6943a8cbe5141cbce74fc.gifv" alt="Welcome Coding GIF" width="600">
+  <img src="https://64.media.tumblr.com/2b7d7a0be75e98173d71929b15590f4b/ae0f63abb9c7a983-c8/s540x810/fb00bdb242e6b42ef3e3cfee325c988f36a29391.gifv" alt="Welcome Coding GIF" width="600">
 </p>
 
 <h1 align="center">Hi, I'm Ilyas 👋</h1>
